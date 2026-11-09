@@ -1,163 +1,61 @@
-<div align="center">
+<div align="center">Olá! Eu sou Luiz Henrique 👋
+Desenvolvedor de Software em formação | AI/MVP Developer
+Construindo minha trajetória em desenvolvimento de software, aplicações web e soluções com Inteligência Artificial.
 
-# 👋 Olá! Eu sou Luiz
 
-### Desenvolvedor Web em Formação • Estudante de Análise e Desenvolvimento de Sistemas
+</div>👨‍💻 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas e profissional em transição para a área de tecnologia. Tenho experiência em suporte técnico, atendimento ao cliente e vendas consultivas — vivências que me ajudam a compreender necessidades reais e pensar em soluções úteis para pessoas e empresas.
 
-*"Transformando ideias em código e aprendizado em soluções."*
+Concluí formações em Full Stack Python (EBAC) e Programador Front-end (SENAI). Estou desenvolvendo minhas habilidades em programação e direcionando meus estudos para aplicações web, integração de APIs, automação de processos e Inteligência Artificial aplicada ao desenvolvimento.
 
-</div>
-
----
-
-# 👨‍💻 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento web.
-
-Atualmente estou focado em aprimorar minhas habilidades no desenvolvimento **Front-end**, criando interfaces modernas, responsivas e acessíveis, sempre buscando aplicar boas práticas e evoluir continuamente.
-
-Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Web**, contribuindo com projetos inovadores e adquirindo experiência profissional na área.
-
----
-
-# 🚀 Atualmente estudando
-
+Meu objetivo é atuar como Desenvolvedor de Software Júnior / AI-MVP Developer, contribuindo para construir, testar e evoluir produtos digitais.
+🧰 Conhecimentos
+Programação e desenvolvimento
+- Python
+- JavaScript
 - HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
+- CSS
+- Lógica de programação
+Dados e ferramentas
+- SQL básico
 - Git e GitHub
-- UI/UX
-- Desenvolvimento Responsivo
+- Repositórios e versionamento de código
+Suporte e infraestrutura
+- Atendimento e suporte técnico
+- Identificação e resolução de problemas
+- Montagem e manutenção de computadores
+- Noções básicas de redes
+🚀 Em desenvolvimento
+Temas que estou aprofundando por meio dos estudos e projetos:
+- React e desenvolvimento de interfaces web
+- APIs REST e integração entre serviços
+- Bancos de dados relacionais e PostgreSQL
+- Deploy de aplicações e uso da Vercel
+- Integração de modelos de IA por API
+- Automação de processos
+As tecnologias desta seção representam meus focos de estudo e prática, não uma declaração de domínio profissional.
 
----
+📚 Formação
+- Análise e Desenvolvimento de Sistemas — Faculdade Cruzeiro do Sul (em andamento)
+- Full Stack Python — EBAC (concluído em setembro/2026)
+- Programador Front-end — SENAI (concluído em outubro/2026)
+🧪 Projetos
+Estou organizando e evoluindo meus projetos para apresentar aplicações completas, com código, documentação e demonstrações.
 
-# 🛠 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma"/>
-
-</p>
-
----
-
-# 📂 Projetos em destaque
-
-Em breve este espaço será preenchido com projetos desenvolvidos durante minha jornada de aprendizado.
-
-### Projetos futuros
-
-📌 Portfólio Responsivo
-
-📌 Landing Pages
-
-📌 Sistema de Login
-
-📌 Lista de Tarefas
-
-📌 Dashboard Administrativo
-
-📌 Consumo de APIs
-
-📌 Aplicações em React
-
----
-
-# 📊 Estatísticas
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luizprofissional2025&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizprofissional2025&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Sequência de contribuições
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Luizprofissional2025&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Atividade no GitHub
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luizprofissional2025&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Luizprofissional2025&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🎯 Objetivos
-
-✔ Desenvolver projetos completos
-
-✔ Aprender React de forma avançada
-
-✔ Estudar TypeScript
-
-✔ Aprimorar minhas habilidades em Front-end
-
-✔ Construir um portfólio sólido
-
-✔ Conquistar minha primeira oportunidade como Desenvolvedor Web
-
----
-
-# 🌐 Vamos nos conectar
-
-<p align="center">
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-C00000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="SEU_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/E--mail-C00000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 👀 Visitantes
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Luizprofissional2025&style=for-the-badge&color=red"/>
-
-</p>
-
----
-
-<div align="center">
-
-### Obrigado pela visita!
-
-Se gostou de algum projeto, fique à vontade para explorar os repositórios ou entrar em contato.
-
-⭐ Sempre aberto a aprender, colaborar e desenvolver novas ideias.
-
+Para cada projeto publicado, pretendo documentar:
+- Problema que a aplicação resolve;
+- Funcionalidades principais;
+- Tecnologias efetivamente utilizadas;
+- Como executar o projeto;
+- Imagens ou demonstração online.
+Veja meus repositórios: github.com/Luizprofissional2025
+🤝 Vamos conversar?
+Tenho interesse em oportunidades júnior, estágio e projetos relacionados a:
+- Desenvolvimento Full Stack;
+- Desenvolvimento de aplicações com IA;
+- Integração de APIs;
+- Automação de processos;
+- Suporte e implementação de soluções tecnológicas.
+📫 LinkedIn: Luiz Henrique
+<div align="center">Aprendendo, construindo e evoluindo um projeto de cada vez.
 </div>
